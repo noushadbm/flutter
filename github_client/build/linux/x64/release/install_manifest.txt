@@ -1,0 +1,10 @@
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/github_client
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/icudtl.dat
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/bundle/lib/libapp.so

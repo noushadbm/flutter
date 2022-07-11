@@ -1,0 +1,14 @@
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/install/strip.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/edit_cache.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/github_client.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/rebuild_cache.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/list_install_components.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/install/local.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/CMakeFiles/install.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/install/strip.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/install/local.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/flutter_assemble.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/edit_cache.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/rebuild_cache.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/list_install_components.dir
+/home/noushad/Development/flutter/github_client/build/linux/x64/release/flutter/CMakeFiles/install.dir
